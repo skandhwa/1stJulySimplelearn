@@ -1,0 +1,17 @@
+1.
+git init
+
+
+2.git clone "URL of the git repo"
+
+3. Create a new text document in local and git bash there 
+
+and write 
+
+git status ----> This will show the files in red colour and those are uncommited files 
+
+4. git add <name of file >----> This will add the file to staging area 
+
+git add . ---> This will add all the uncomitted files 
+
+5> git commit -m "Commiting my changes"
